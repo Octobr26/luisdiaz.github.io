@@ -575,9 +575,9 @@ CREATURE.Main = function (mobileMode) {
         var titleFontSize = screenRadius / 10;
         title.position.y -= 32;
         title.position.x -= 32;
-        title.content = "studio uyu"; //'{ ōtoro.net };';
+        title.content = "바나나 우유"; //'{ banana-uyu.net };';
         title.style = {
-            fontFamily: "Courier New",
+            fontFamily: "Inter",
             fontWeight: "normal",
             fontSize: 0,
             //fillColor: '#1664ff',
